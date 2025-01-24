@@ -14,6 +14,7 @@ author_profile: false
 0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding** (with Roxana Smarandache and David Mitchell, submitted)
 0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
 0. **QC-LDPC Expander Codes**
+1. (submitted)
 {: reversed="reversed"}
 
 ## Published
