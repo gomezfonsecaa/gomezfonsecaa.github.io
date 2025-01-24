@@ -11,7 +11,6 @@ author_profile: false
 
 ## In Preparation
 
-0. **Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**
 0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding** (with Roxana Smarandache and David Mitchell, submitted)
 0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
 0. **QC-LDPC Expander Codes**
