@@ -636,5 +636,3 @@ jekyll_get_json:
 
 jsonresume:
   - basics
-  - education
-  - languages
