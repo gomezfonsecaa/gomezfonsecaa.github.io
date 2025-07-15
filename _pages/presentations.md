@@ -4,7 +4,7 @@ permalink: /presentations/
 title: presentations
 description: 
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 0. **QC-LDPC Codes from Expander Graphs**, 2024 AMS Fall Central Sectional Meeting, The University of Texas - San Antonio, San Antonio, Texas, September 15, 2024.
