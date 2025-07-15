@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Anthony Gómez-Fonseca",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "agomezfo@alumni.nd.edu",
+    "phone": "",
+    "url": "https://gomezfonsecaa.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "255 Hurley Bldg",
+      "postalCode": "46556",
+      "city": "Notre Dame",
       "countryCode": "US",
-      "region": "California"
+      "region": "Indiana"
     },
     "profiles": [
       {
@@ -151,7 +151,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Spanish",
       "fluency": "Native speaker",
       "icon": ""
     },
