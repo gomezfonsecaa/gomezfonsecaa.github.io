@@ -7,4 +7,4 @@ nav: true
 nav_order: 2
 ---
 
-You can find a copy of my CV [here](Anthony_Gomez_Fonseca_CV_July_2025.pdf).
+You can find a copy of my CV [here](/assets/pdf/Anthony_Gomez_Fonseca_CV_July_2025.pdf).
