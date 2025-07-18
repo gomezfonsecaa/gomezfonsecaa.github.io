@@ -8,4 +8,3 @@ category: phd
 related_publications: false
 ---
 
-Testing :)
