@@ -419,6 +419,11 @@ ninja.data = [{
           description: "My time at the University of Notre Dame.",
           section: "Galleries",handler: () => {
               window.location.href = "/galleries/notre_dame/";
+            },},{id: "galleries-phd-graduation",
+          title: 'phd graduation',
+          description: "My graduation from the University of Notre Dame.",
+          section: "Galleries",handler: () => {
+              window.location.href = "/galleries/phd_graduation/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
