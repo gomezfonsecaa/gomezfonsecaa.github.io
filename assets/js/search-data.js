@@ -414,9 +414,9 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "galleries-gallery-1",
-          title: 'gallery 1',
-          description: "with background image",
+      },{id: "galleries-notre-dame",
+          title: 'notre dame',
+          description: "My time at the University of Notre Dame.",
           section: "Galleries",handler: () => {
               window.location.href = "/galleries/gallery_1/";
             },},{id: "news-a-simple-inline-announcement",
