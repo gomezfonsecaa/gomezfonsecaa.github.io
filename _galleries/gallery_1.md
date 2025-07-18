@@ -5,5 +5,7 @@ description: with background image
 img: assets/img/12.jpg
 importance: 1
 category: conference
-related_publications: true
+related_publications: false
 ---
+
+Testing :)
