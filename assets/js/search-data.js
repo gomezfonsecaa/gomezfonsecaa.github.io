@@ -418,7 +418,7 @@ ninja.data = [{
           title: 'notre dame',
           description: "My time at the University of Notre Dame.",
           section: "Galleries",handler: () => {
-              window.location.href = "/galleries/gallery_1/";
+              window.location.href = "/galleries/notre_dame/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
