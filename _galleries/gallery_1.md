@@ -1,10 +1,10 @@
 ---
 layout: page
-title: gallery 1
-description: with background image
-img: assets/img/12.jpg
+title: notre dame
+description: My time at the University of Notre Dame.
+img: /assets/img/galleries/notre_dame/nd.jpg
 importance: 1
-category: conference
+category: phd
 related_publications: false
 ---
 
