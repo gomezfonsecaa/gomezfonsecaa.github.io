@@ -414,7 +414,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "news-a-simple-inline-announcement",
+      },{id: "galleries-gallery-1",
+          title: 'gallery 1',
+          description: "with background image",
+          section: "Galleries",handler: () => {
+              window.location.href = "/galleries/gallery_1/";
+            },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
