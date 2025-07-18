@@ -5,7 +5,7 @@ permalink: /gallery/
 description:
 nav: true
 nav_order: 5
-display_categories: [conferences, phd]
+display_categories: [conference, phd]
 horizontal: false
 ---
 
