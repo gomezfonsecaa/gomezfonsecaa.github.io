@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 
+0. **Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**, Mathematical Congress of the Americas 2025, InterContinental Miami, Miami, Florida, July 24, 2025.
 0. **Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**, 2025 IEEE International Symposium on Information Theory (ISIT), University of Michigan, Ann Arbor, Michigan, June 26, 2025.
 0. **Using Spectral Analysis to Optimize Certain Parameters of QC-LDPC Codes**, 2025 AMS Spring Southeastern Sectional Meeting, Clemson University, Clemson, South Carolina, March 8, 2025.
 0. **QC-LDPC Codes from Expander Graphs**, 2024 AMS Fall Central Sectional Meeting, The University of Texas - San Antonio, San Antonio, Texas, September 15, 2024.
