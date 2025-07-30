@@ -16,7 +16,7 @@ nav_order: 2
 
 ## Published
 
-0. Anthony G ́omez-Fonseca, “**Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**,” 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, United States, July 2025.
+0. Anthony Gómez-Fonseca, “**Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**,” 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, United States, July 2025.
 0. Roxana Smarandache, Anthony Gómez-Fonseca and David G. M. Mitchell, “**Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding**,” 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024, pp. 434-439, doi: [10.1109/ISIT57864.2024.10619445](https://ieeexplore.ieee.org/document/10619445).
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “**A Low Complexity PEG-like Algorithm to Construct Quasi-Cyclic LDPC Codes**,” 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023, pp. 1-5, doi: [10.1109/ISTC57237.2023.10273481](https://ieeexplore.ieee.org/document/10273481).
 0. Henry Chimal-Dzul and Anthony Gómez-Fonseca, “**Using Partial Orthomorphisms to Construct Short Quasi-Cyclic LDPC Codes with Girth at Least 6**,” 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023, pp. 1-5, doi: [10.1109/ISTC57237.2023.10273465](https://ieeexplore.ieee.org/document/10273465).
