@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href="https://www.usf.edu/arts-sciences/departments/mathematics-statistics/">Department of Mathematics & Statistics</a>, <a href="https://www.usf.edu/arts-sciences/">College of Arts and Sciences</a>, <a href="https://www.usf.edu">University of South Florida</a>.
 
 profile:
   align: right
