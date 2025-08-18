@@ -9,7 +9,7 @@ nav_order: 2
 
 ## In Preparation
 
-0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding** (With Roxana Smarandache and David Mitchell, and submitted to IEEE Transactions on Information Theory. For the preprint, which contains more examples, see [here](https://arxiv.org/abs/2508.07030).)
+0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding** (With Roxana Smarandache and David Mitchell, and submitted to IEEE Transactions on Information Theory. For the preprint, which contains a larger number of examples, see [here](https://arxiv.org/abs/2508.07030).)
 0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
 0. **QC-LDPC Expander Codes**
 {: reversed="reversed"}
