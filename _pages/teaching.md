@@ -13,7 +13,7 @@ nav_order: 4
 
 ## At the University of South Florida
 
-- **Instructor - Department of Mathematics**
+- **Instructor - Department of Mathematics and Statistics**
   + MAC2311 - Calculus I (Fall 2025)
   + MAD2470 - Introduction to Cryptography and its Applications (Fall 2025, asynchronous course)
 
