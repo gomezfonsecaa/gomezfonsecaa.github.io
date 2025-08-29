@@ -20,8 +20,8 @@ nav_order: 4
 ## At the University of Notre Dame
 
 - **Instructor - Department of Mathematics**
-  + Calculus A (Fall 2023)
+  + MATH 10350 - Calculus A (Fall 2023)
 - **Teaching Assistant - Department of Mathematics**
-  + Calculus A (Fall 2024)
-  + Calculus B (Spring 2021, Fall 2021, Spring 2022, Fall 2022)
-  + Linear Algebra and Differential Equations (Spring 2023)
+  + MATH 12350 - Calculus A (Fall 2024)
+  + MATH 12360 - Calculus B (Spring 2021, Fall 2021, Spring 2022, Fall 2022)
+  + MATH 20580 - Linear Algebra and Differential Equations (Spring 2023)
