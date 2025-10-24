@@ -9,14 +9,15 @@ nav_order: 2
 
 ## In Preparation
 
-0. **Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding** (With Roxana Smarandache and David Mitchell, and submitted to IEEE Transactions on Information Theory. For the preprint, which contains a larger number of examples, see [here](https://arxiv.org/abs/2508.07030).)
+0. **Protograph-based LDPC Codes from Permutation Polynomials of Higher Degree**
 0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
 0. **QC-LDPC Expander Codes**
 {: reversed="reversed"}
 
 ## Published
 
-0. Anthony Gómez-Fonseca, “**Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**,” 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, United States, July 2025.
+0. Roxana Smarandache, David G. M. Mitchell, and Anthony Gómez-Fonseca, "**Structural Analysis of Generalized Quasi-Cyclic LDPC Codes: Rank, Design and Generator Matrices**," in IEEE Transactions on Information Theory, doi: [10.1109/TIT.2025.3625539](https://ieeexplore.ieee.org/document/11217253). For the preprint, which contains a larger number of examples, see [here](https://arxiv.org/abs/2508.07030).
+0. Anthony Gómez-Fonseca, “**Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**,” 2025 IEEE International Symposium on Information Theory (ISIT), Ann Arbor, Michigan, United States, July 2025, pp. 1-6, doi: [10.1109/ISIT63088.2025.11195483](https://ieeexplore.ieee.org/document/11195483).
 0. Roxana Smarandache, Anthony Gómez-Fonseca and David G. M. Mitchell, “**Generalized Quasi-Cyclic LDPC Codes: Design and Efficient Encoding**,” 2024 IEEE International Symposium on Information Theory (ISIT), Athens, Greece, July 2024, pp. 434-439, doi: [10.1109/ISIT57864.2024.10619445](https://ieeexplore.ieee.org/document/10619445).
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “**A Low Complexity PEG-like Algorithm to Construct Quasi-Cyclic LDPC Codes**,” 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023, pp. 1-5, doi: [10.1109/ISTC57237.2023.10273481](https://ieeexplore.ieee.org/document/10273481).
 0. Henry Chimal-Dzul and Anthony Gómez-Fonseca, “**Using Partial Orthomorphisms to Construct Short Quasi-Cyclic LDPC Codes with Girth at Least 6**,” 2023 12th International Symposium on Topics in Coding (ISTC), Brest, France, September 2023, pp. 1-5, doi: [10.1109/ISTC57237.2023.10273465](https://ieeexplore.ieee.org/document/10273465).
