@@ -7,6 +7,10 @@ nav: true
 nav_order: 3
 ---
 
+0. **An Introduction to Low-Density Parity-Check (LDPC) Codes,** RTG Applied Algebra Seminar, University of South Florida, Tampa, Florida, November 14, 2025.
+0. **Using Large-Girth Protograph-based LDPC Codes Constructed from Permutation Polynomials to Design Quantum Error-Correcting Codes,** Algebraic Coding Theory at Virginia Tech (ACTiV(T)), Virginia Tech, Blacksburg, Virginia, October 21, 2025.
+0. **On Quantum Error-Correcting Codes with Large Girth Using Protograph-based LDPC Codes Constructed from Permutation Polynomials,** Applied Algebra Days Workshop 2, Florida Atlantic University, Boca Raton, Florida, October 12, 2025.
+0. **Using Permutation Polynomials to Construct Protograph-based LDPC Codes with Large Girth,** 2025 AMS Fall Southeastern Sectional Meeting, Tulane University, New Orleans, Louisiana, October 4, 2025.
 0. **Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**, Mathematical Congress of the Americas 2025, InterContinental Miami, Miami, Florida, July 24, 2025.
 0. **Construction of QC-LDPC Codes with Girth g from the Hermite Normal Form of a Matrix**, 2025 IEEE International Symposium on Information Theory (ISIT), University of Michigan, Ann Arbor, Michigan, June 26, 2025.
 0. **Using Spectral Analysis to Optimize Certain Parameters of QC-LDPC Codes**, 2025 AMS Spring Southeastern Sectional Meeting, Clemson University, Clemson, South Carolina, March 8, 2025.
