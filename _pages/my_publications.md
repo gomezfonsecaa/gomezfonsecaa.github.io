@@ -7,9 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+## Submitted
+0. **Quantum Low-Density Parity-Check Codes from Dyadic Matrices**, with Eduardo Camps-Moreno, Gretchen L. Matthews, Kirsten D. Morris, and Tefjol Pllaha.
+0. **Low-Density Parity-Check Codes of High Girth from Permutation Polynomials**, with Tasawwar Hussain and Tefjol Pllaha.
+0. **Combinatorial Analysis of Dyadic and Quasi-Dyadic Codes**, with Gretchen L. Matthews, Kirsten D. Morris, and Tefjol Pllaha.
+0. **Fault-Tolerant QLDPC Syndrome Measurement via LDGM Encoding**, with Eren Guttentag. For preprint, see [here](https://arxiv.org/abs/2605.25317).
+{: reversed="reversed"}
+
 ## In Preparation
 
-0. **Protograph-based LDPC Codes from Permutation Polynomials of Higher Degree**
 0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
 0. **QC-LDPC Expander Codes**
 {: reversed="reversed"}
