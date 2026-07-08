@@ -7,6 +7,8 @@ nav: true
 nav_order: 3
 ---
 
+0. **Protograph-based Codes from Permutation Polynomials,** American Institute of Mathematics: Combinatorial Coding Theory Workshop, Pasadena, California, April 16, 2026.
+0. **On the Cycle Analysis of Quasi-Dyadic Codes,** 2026 AMS Spring Southeastern Sectional Meeting, Georgia Southern University, Savannah, Georgia, March 28, 2026.
 0. **An Introduction to Low-Density Parity-Check (LDPC) Codes,** RTG Applied Algebra Seminar, University of South Florida, Tampa, Florida, November 14, 2025.
 0. **Using Large-Girth Protograph-based LDPC Codes Constructed from Permutation Polynomials to Design Quantum Error-Correcting Codes,** Algebraic Coding Theory at Virginia Tech (ACTiV(T)), Virginia Tech, Blacksburg, Virginia, October 21, 2025.
 0. **On Quantum Error-Correcting Codes with Large Girth Using Protograph-based LDPC Codes Constructed from Permutation Polynomials,** Applied Algebra Days Workshop 2, Florida Atlantic University, Boca Raton, Florida, October 12, 2025.
