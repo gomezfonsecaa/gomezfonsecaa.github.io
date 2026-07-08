@@ -14,12 +14,6 @@ nav_order: 2
 0. **Fault-Tolerant QLDPC Syndrome Measurement via LDGM Encoding**, with Eren Guttentag. For the preprint, see [here](https://arxiv.org/abs/2605.25317).
 {: reversed="reversed"}
 
-## In Preparation
-
-0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
-0. **QC-LDPC Expander Codes**
-{: reversed="reversed"}
-
 ## Published
 
 0. Roxana Smarandache, David G. M. Mitchell, and Anthony Gómez-Fonseca, "**Structural Analysis of Generalized Quasi-Cyclic LDPC Codes: Rank, Design and Generator Matrices**," in IEEE Transactions on Information Theory, vol. 72, no. 1, pp. 253-267, January 2026, doi: [10.1109/TIT.2025.3625539](https://ieeexplore.ieee.org/document/11217253). For the preprint, which contains a larger number of examples, see [here](https://arxiv.org/abs/2508.07030).
@@ -31,6 +25,12 @@ nav_order: 2
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “**On the Tanner Cycle Distribution of QC-LDPC Codes from Polynomial Parity-Check Matrices**,” 2023 IEEE International Symposium on Information Theory (ISIT), Taipei, Taiwan, June 2023, pp. 2356-2361, doi: [10.1109/ISIT54713.2023.10207005](https://ieeexplore.ieee.org/document/10207005).
 0. Roxana Smarandache, Anthony Gómez-Fonseca and David G. M. Mitchell, “**Using Minors to Construct Generator Matrices for Quasi-Cyclic LDPC Codes**,” 2022 IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, June 2022, pp. 548-553, doi: [10.1109/ISIT50566.2022.9834862](https://ieeexplore.ieee.org/document/9834862).
 0. Anthony Gómez-Fonseca, Roxana Smarandache and David G. M. Mitchell, “**Necessary and Sufficient Girth Conditions for LDPC Tanner Graphs with Denser Protographs**,” 2021 11th International Symposium on Topics in Coding (ISTC), Montreal, QC, Canada, August 2021, pp. 1-5, doi: [10.1109/ISTC49272.2021.9594176](https://ieeexplore.ieee.org/document/9594176).
+{: reversed="reversed"}
+
+## In Preparation
+
+0. **An algebraic approach to construct QC-LDPC codes with girth g and shortest blocklength**
+0. **QC-LDPC Expander Codes**
 {: reversed="reversed"}
 
 ---
